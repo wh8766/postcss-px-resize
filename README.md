@@ -1,2 +1,4 @@
 # postcss-px-resize
-postcss plugin
+A postcss plugin to resize px in src.
+
+## Use

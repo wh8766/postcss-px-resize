@@ -1,0 +1,31 @@
+{
+  "name": "postcss-px-resize",
+  "description": "Postcss version of px-resize",
+  "version": "0.3.0",
+  "homepage": "https://github.com/wh8766/postcss-px-resize",
+  "author": "w.hao <wh8766@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wh8766/postcss-px-resize.git"
+  },
+  "dependencies": {
+    "postcss": "^5.0.0",
+    "css": "~2.2.0",
+    "extend": "~3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "autoprefixer": "^6.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "keywords": [
+    "px-resize",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "_from": "",
+  "_resolved": ""
+}
